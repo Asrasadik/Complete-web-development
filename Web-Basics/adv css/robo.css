@@ -1,0 +1,27 @@
+.head{
+    background-color: cornflowerblue;
+}
+.head{
+    width: 200px;
+    height: 150px;
+    border-radius:200px 200px 0 0;
+    margin: 0;
+}
+.left-eye{
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 30px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+.right-eye{
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 80px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
